@@ -45,4 +45,6 @@ func locationForBadge(BadgeView: PCLNumberBadgeView) -> Int! {
 ![picture alt](https://github.com/pinchih/PCLNumberBadgeView/blob/master/pic_1.png?raw=true)
 ![picture alt](https://github.com/pinchih/PCLNumberBadgeView/blob/master/pic_2.png?raw=true)
 
-
+# License
+PCLNumberBadgeView is licensed under the terms of the MIT License. 
+For more details, please see the [LICENSE](https://github.com/pinchih/PCLNumberBadgeView/blob/master/LICENSE.md) file.
