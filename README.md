@@ -9,11 +9,12 @@ The following steps shows how to setup a basic PCLNumberBadgeView.
 
 * Make your viewcontroller confirmed to the PCLNumberBadgeViewDataSource protocol.
 
-* Assign the view's delegate to the controller and call the setup method.
+* Assign the view's delegate to the controller, call the setup method and add it to the view.
 ```
 // In your view controller, 
 yourPCLNumberBadgeView.delegate = self
 yourPCLNumberBadgeView.setup()
+view.addSubView(yourPCLNumberBadgeView)
 ```
 
 * Inplement the PCLNumberBadgeViewDataSource method
