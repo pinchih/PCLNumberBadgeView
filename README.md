@@ -40,3 +40,9 @@ func locationForBadge(BadgeView: PCLNumberBadgeView) -> Int! {
 }
 ```
 * Done!
+
+# Example
+![picture alt](https://github.com/pinchih/PCLNumberBadgeView/blob/master/pic_1.png?raw=true)
+![picture alt](https://github.com/pinchih/PCLNumberBadgeView/blob/master/pic_2.png?raw=true)
+
+
